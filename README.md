@@ -1,7 +1,9 @@
 # Forkifyy
 
 Fully Functional Website
+
 Laptop/Ipad Friendly 
+
 Not yet Mobile Friendly
 
 # Visit
